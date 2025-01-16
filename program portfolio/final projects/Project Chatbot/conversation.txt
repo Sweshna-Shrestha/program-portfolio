@@ -1,0 +1,25 @@
+
+--- New Conversation ---
+Conversation started at 2025-01-16 20:19:19 with Liana and agent Ethan
+Liana: admission
+Ethan: For information on admissions, please visit our Admissions Office or check our website for details on application deadlines, requirements, and procedures.
+Liana: coffee
+Ethan: The campus coffee bar is open from 8 AM to 8 PM. It's the perfect place to grab a coffee and relax between classes.
+Liana: exit
+Thank you. Have a great day Liana
+
+--- New Conversation ---
+Conversation started at 2025-01-16 20:20:01 with Maya  and agent Sansa
+Maya : clubs 
+Sansa: That's interesting!
+Maya : student_clubs
+Sansa: We have a variety of student clubs and organizations for you to join, ranging from academic societies to cultural and recreational groups. Visit our Student Activities Office to learn more.
+Maya : 
+Thank you. Have a great day Maya 
+
+--- New Conversation ---
+Conversation started at 2025-01-16 20:44:34 with Lemon and agent Sansa
+Lemon: coffee
+Sansa: The campus coffee bar is open from 8 AM to 8 PM. It's the perfect place to grab a coffee and relax between classes.
+Lemon: 
+Thank you. Have a great day Lemon

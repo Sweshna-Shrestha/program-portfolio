@@ -1,0 +1,25 @@
+{
+    "keys_responses": {
+        "admission": "For information on admissions, please visit our Admissions Office or check our website for details on application deadlines, requirements, and procedures.",
+        "student_service": "Our Student Services team is here to help you with academic advising, career counseling, and personal support. Visit our office or contact us via email for assistance.",
+        "student_clubs": "We have a variety of student clubs and organizations for you to join, ranging from academic societies to cultural and recreational groups. Visit our Student Activities Office to learn more.",
+        "library": "The library is open from 9 AM to 9 PM. You can access a wide range of books, journals, and digital resources to support your studies.",
+        "courses": "You can explore our course offerings and register for classes on the university website. For detailed course information, visit the Course Catalog section.",
+        "coffee": "The campus coffee bar is open from 8 AM to 8 PM. It's the perfect place to grab a coffee and relax between classes.",
+        "residence": "Information about student housing can be found on our website. We offer a range of on-campus and off-campus housing options to suit your needs.",
+        "other_department": "For information about other departments, please visit the university website or contact the relevant department office directly."
+    },
+    
+    "other_responses": [
+        "That's interesting!",
+        "Tell me more!",
+        "Can you elaborate on that?",
+        "What else would you like me to do for you?",
+        "Oh, really?",
+        "Could you provide more details?",
+        "Hmm, I'd love to hear more about that.",
+        "Interesting perspective.",
+        "I'm intrigued!"
+    ]
+}
+
